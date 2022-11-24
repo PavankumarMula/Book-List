@@ -1,0 +1,35 @@
+.container{
+    align-items: center;
+    padding:5px;
+    margin: 10px;
+}
+.inputs,label{
+    padding: 3px;
+    margin: auto;
+    font-size: 15px;
+    font-family:cursive;
+    font-weight: bold;
+    color:tomato;
+}
+.inputs,input{
+    padding: 5px;
+    margin: 3px;
+    width: 300px;
+}
+#button{
+    padding: 5px;
+    color:tomato;
+    font-weight: bolder;
+    width: 100px;
+    align-content: center;
+}
+
+.table{
+    margin-left: 1px;
+    font-size: 15px;
+    font-family:cursive;
+    font-weight: bold;
+    color:maroon;
+    border-spacing: 15px 0px;
+    
+}
